@@ -1,0 +1,18 @@
+.slider-decorator-0{
+    bottom:10% !important
+}
+
+.am-carousel-wrap{
+    text-align: right;
+    padding-right: 4%;
+}
+.am-carousel-wrap-dot{
+    width: 0.12rem;
+}
+.am-carousel-wrap-dot>span{
+    background-color: rgba(0,0,0,0);
+    border: 1px solid #fff
+}
+.am-carousel-wrap-dot-active>span{
+    background-color: #fff;
+}

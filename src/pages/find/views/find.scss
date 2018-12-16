@@ -1,0 +1,46 @@
+.findTag{
+    width: 100%;
+    
+    ul{
+        width: 100%;
+        li{
+            width: 100%;
+            margin-bottom: 0.01rem;
+            background-color: #fff;
+            padding: 0.1rem;
+            h3{
+                font-size: 0.18rem;
+                font-weight: normal;
+                margin: 0.1rem 0;
+                line-height: 0.24rem;
+            }
+            div{
+                display:flex;
+                width: 100%;
+                justify-content: space-between;
+                img{
+                    width: 32%;
+                    height: 100%;
+                }
+            }
+            .findImg{
+                img{
+                    width: 100%;
+                }
+            }
+            span{
+                border:0.01rem solid #00be88;
+                border-radius:0.2rem;
+                display:inline-block;
+                padding: 0 0.04rem;
+                font-size: 0.12rem;
+                color:#00be88;
+                margin: 0.1rem 0;
+            }
+            .findColor{
+                color:#f0b538;
+                border-color:#f0b538;
+            }
+        }
+    }
+}

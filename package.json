@@ -1,0 +1,49 @@
+{
+  "name": "travel",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd-mobile": "^2.2.6",
+    "antd-mobile-demo-data": "^0.2.0",
+    "better-scroll": "^1.13.2",
+    "css-loader": "^1.0.1",
+    "http-proxy-middleware": "^0.19.0",
+    "immutable": "^4.0.0-rc.12",
+    "lodash": "^4.17.11",
+    "node-sass": "^4.10.0",
+    "postcss-loader": "^3.0.0",
+    "random-string": "^0.2.0",
+    "react": "^16.6.3",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-dom": "^16.6.3",
+    "react-redux": "^5.1.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "react-sticky": "^6.0.3",
+    "react-transition-group": "^2.5.0",
+    "redux": "^4.0.1",
+    "redux-immutable": "^4.0.0",
+    "sass-loader": "^7.1.0",
+    "styled-components": "^4.1.1",
+    "swiper": "^4.4.2"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "babel-plugin-import": "^1.11.0",
+    "react-app-rewired": "^1.6.2"
+  }
+}

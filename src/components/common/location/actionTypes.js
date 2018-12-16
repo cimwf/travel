@@ -1,0 +1,1 @@
+export const INSERT_CITY = 'location/insert_city'
